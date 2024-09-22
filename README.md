@@ -27,7 +27,7 @@ By focusing on the F2-Score, WirelessUS can ensure that its customer retention s
 
 ## How to Use
 1. Clone this repository.
-2. Install the necessary dependencies listed in `requirements.txt`.
+2. Install the necessary dependencies listed in requirements.
 3. Run the Jupyter Notebook to reproduce the analysis and model.
 4. Modify the notebook as needed for your use case.
 
