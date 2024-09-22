@@ -44,7 +44,7 @@ By focusing on the F2-Score, WirelessUS can ensure that its customer retention s
 Install dependencies using:
 
 ```bash
-pip install -r requirements.txt
+pip install 
 ```
 
 ## Contact
