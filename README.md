@@ -51,6 +51,6 @@ pip install -r requirements.txt
 For any questions or feedback, please contact:
 
 - **Faizal Lutfi Yoga Triadi**
-- [Email](mailto:example@example.com)
+- [Email](mailto:faizal2jz@gmail.com)
 
 ---
