@@ -1,4 +1,6 @@
-# Capstone Project Module 03 - Telco Customer Churn
+# Telco Customer Churn Prediction
+
+[**Presentation**](https://www.canva.com/design/DAGRixgH7AE/IKH9GP-Cf10SYXlRxyBTSg/view?utm_content=DAGRixgH7AE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9303b117b9)
 
 ---
 
